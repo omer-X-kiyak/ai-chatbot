@@ -1,6 +1,10 @@
 <html>
 <body>
-<h5>These code snippets are implementing a simple chatbot using a neural network model.
+<h4>
+  ENGLİSH
+</h4
+<h5>
+These code snippets are implementing a simple chatbot using a neural network model.
 
 The first code block defines the intents of the chatbot in a JSON file named 'intents.json'. The file contains a list of dictionaries, where each dictionary corresponds to an intent of the chatbot. Each intent has a unique tag and a list of patterns and responses. The patterns are a list of phrases that a user might input to trigger the intent, and the responses are the chatbot's possible responses for that intent.
 

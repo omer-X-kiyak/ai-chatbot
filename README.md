@@ -9,6 +9,9 @@ The second code block is responsible for training the neural network model. It l
 The last code block is responsible for running the chatbot. It loads the trained model from the saved file 'chatbotmodel.h5', along with the preprocessed words and classes from the pickle files. The chatbot can take any input sentence, preprocess it, and predict the intent of the sentence using the trained model. The chatbot then generates a response based on the predicted intent and the possible responses defined in the 'intents.json' file.
 
 </h5>
+<h3>
+TÜRKÇE
+</h3>
 <h4>
 Bu kod parçacıkları, bir sinir ağı modeli kullanarak basit bir sohbet robotu uygulamaktadır.
 
